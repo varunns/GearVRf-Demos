@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="4686253517964"
+    token="-3751710688140610309"
+    verifier="DEPENDENCY_CHANGED" >
+
+    <task
+        name="javac"
+        duration="121" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="3838319471494" >
+        <artifact
+            location="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="4515626253808"
+        verifier="FIELD_REMOVED" >
+        <artifact
+            location="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-gvrmobileiodevice-debug_fc149215bb3fa0662dfb8eb5ea7c24b1435ef49e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="4686253517964"
+        verifier="DEPENDENCY_CHANGED" >
+        <artifact
+            location="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

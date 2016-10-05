@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/cursor_list_element_layout.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/layout/cursor_list_element_layout.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/transition_view.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/iochange_dialog_layout.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/layout/iochange_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/theme_element_layout.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/layout/theme_element_layout.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/ui_layer.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/iodevice_element_layout.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/layout/iodevice_element_layout.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/cursor_configuration_layout.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/layout/cursor_configuration_layout.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/settings_layout.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/layout/settings_layout.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/layout/back_button.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/layout/back_button.xml"
+    }
+]

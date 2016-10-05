@@ -46,10 +46,8 @@ dependencies {
     compile(name:'3DCursorLibrary-debug', ext:'aar')
     compile(name:'gvrmobileiodevice-debug', ext:'aar')
 
-//    compile project(path: ':gvrmobileiodevice')
 }
 
-//TODO export plugin to jar
 import javax.xml.XMLConstants
 import javax.xml.transform.stream.StreamSource
 import javax.xml.validation.SchemaFactory

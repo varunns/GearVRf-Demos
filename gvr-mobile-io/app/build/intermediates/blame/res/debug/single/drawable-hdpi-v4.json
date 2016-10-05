@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_arrow_upward_white_24.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/drawable-hdpi-v4/quantum_ic_arrow_upward_white_24.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_arrow_back_white_24.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/drawable-hdpi-v4/quantum_ic_arrow_back_white_24.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/transition.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/drawable-hdpi-v4/transition.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_arrow_downward_white_24.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/drawable-hdpi-v4/quantum_ic_arrow_downward_white_24.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/drawable-hdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/res/drawable-hdpi-v4/ic_launcher.png"
+    }
+]

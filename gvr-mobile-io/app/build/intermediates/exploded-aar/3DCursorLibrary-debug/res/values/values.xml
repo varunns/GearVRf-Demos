@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonDefault">#3498DB</color>
+    <color name="buttonPressed">#2980B9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNavyBlue">#000059</color>
+    <color name="colorPrimary">#5bc3db</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="green">#27AE60</color>
+    <color name="lightGrey">#D3D3D3</color>
+    <color name="orange">#e67e22</color>
+    <color name="red">#C0392B</color>
+    <color name="transparentGrey">#4D444444</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="back_button_horizontal_padding">30dp</dimen>
+    <dimen name="back_button_vertical_padding">10dp</dimen>
+    <dimen name="bg_rect_radius">20dp</dimen>
+    <dimen name="circle_margin_end">10dp</dimen>
+    <dimen name="circle_size">20dp</dimen>
+    <dimen name="cursor_config_margin_start">10dp</dimen>
+    <dimen name="cursor_config_text_size">20sp</dimen>
+    <dimen name="cursor_list_divider_height">8dp</dimen>
+    <dimen name="cursor_list_element_h_padding">8dp</dimen>
+    <dimen name="cursor_list_element_margin">10dp</dimen>
+    <dimen name="cursor_list_element_v_padding">6dp</dimen>
+    <dimen name="cursor_list_image_size">30dp</dimen>
+    <dimen name="cursor_list_indicator_width">25dp</dimen>
+    <dimen name="cursor_list_io_dev_min_width">100dp</dimen>
+    <dimen name="cursor_list_text_box_padding">6dp</dimen>
+    <dimen name="cursor_type_text_view_width">80dp</dimen>
+    <dimen name="cusor_type_bg_radius">6dp</dimen>
+    <dimen name="dialog_button_vertical">10dp</dimen>
+    <dimen name="dialog_button_width">100dp</dimen>
+    <dimen name="dialog_corner_radius">25dp</dimen>
+    <dimen name="dialog_text_size">45sp</dimen>
+    <dimen name="divider_line_height">4dp</dimen>
+    <dimen name="divider_line_padding">10dp</dimen>
+    <dimen name="iodevice_element_height">80dp</dimen>
+    <dimen name="iodevice_element_margin">3dp</dimen>
+    <dimen name="iodevice_element_width">100dp</dimen>
+    <dimen name="rect_corner_radius">10dp</dimen>
+    <dimen name="settings_element_spacing">10dp</dimen>
+    <dimen name="theme_element_height">80dp</dimen>
+    <dimen name="theme_element_width">110dp</dimen>
+    <dimen name="theme_preview_size">56dp</dimen>
+    <dimen name="toggle_button_width">77dp</dimen>
+    <dimen name="window_padding">10dp</dimen>
+    <string name="app_name">IOSupportLibrary</string>
+    <string name="backButton">X</string>
+    <string name="cancel">Cancel</string>
+    <string name="close_window">X</string>
+    <string name="cursorDisable">Disable</string>
+    <string name="cursorEnable">Enable</string>
+    <string name="cursorListTitle">Cursor Settings</string>
+    <string name="cursor_disabled">disabled</string>
+    <string name="cursor_enabled">enabled</string>
+    <string name="cursor_sounds">Sound</string>
+    <string name="cursor_type">Cursor Type: </string>
+    <string name="cursor_type_laser">LASER</string>
+    <string name="cursor_type_object">OBJECT</string>
+    <string name="cursorsTitle">Cursors</string>
+    <string name="deviceListTitle">Device List</string>
+    <string name="devicesTitle">Devices</string>
+    <string name="done">Done</string>
+    <string name="io_device_change">This will change the Input Device you are currently using!</string>
+    <string name="no_io_device">NA</string>
+    <string name="ok">OK</string>
+    <string name="select_cursor_theme">Select Cursor Theme</string>
+    <string name="select_io_device">Select I/O Device</string>
+    <string name="settingsTitle">I/O Settings</string>
+    <string name="soundOff">Off</string>
+    <string name="soundOn">On</string>
+    <string name="soundsTitle">Sounds</string>
+    <string name="titleLaser">Laser</string>
+    <string name="titleObject">Object</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

@@ -20,19 +20,12 @@ import android.graphics.Color;
 
 import com.example.gvrmobileiodevice.GVRMobileIoDevice;
 
-import org.gearvrf.GVRAndroidResource;
 import org.gearvrf.GVRBitmapTexture;
-import org.gearvrf.GVRComponent;
 import org.gearvrf.GVRContext;
 import org.gearvrf.GVRMain;
-import org.gearvrf.GVRMaterial;
-import org.gearvrf.GVRMesh;
-import org.gearvrf.GVRPhongShader;
-import org.gearvrf.GVRRenderData.GVRRenderingOrder;
 import org.gearvrf.GVRScene;
 import org.gearvrf.GVRSceneObject;
 import org.gearvrf.GVRTexture;
-import org.gearvrf.GVRTransform;
 import org.gearvrf.io.cursor3d.Cursor;
 import org.gearvrf.io.cursor3d.CursorEvent;
 import org.gearvrf.io.cursor3d.CursorEventListener;
@@ -43,13 +36,11 @@ import org.gearvrf.io.cursor3d.OutputEvent;
 import org.gearvrf.io.cursor3d.SelectableBehavior;
 import org.gearvrf.io.cursor3d.SelectableBehavior.ObjectState;
 import org.gearvrf.io.cursor3d.SelectableBehavior.StateChangedListener;
-import org.gearvrf.scene_objects.GVRCubeSceneObject;
 import org.gearvrf.scene_objects.GVRModelSceneObject;
 import org.gearvrf.utility.Log;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -63,7 +54,6 @@ public class CursorMain extends GVRMain implements CursorEventListener {
     private GVRScene mainScene;
     private CursorManager cursorManager;
     private GVRSceneObject rocket;
-    private GVRSceneObject astronaut;
     private GVRMobileIoDevice gvrMobileIoDevice;
 
     @Override

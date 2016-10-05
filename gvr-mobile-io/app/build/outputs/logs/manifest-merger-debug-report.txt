@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:17:1-59:12
+	package
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:18:5-42
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:22:5-30
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:20:5-51
+	android:versionCode
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:19:5-63
+uses-sdk
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:24:5-26:40
+MERGED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:23:5-25:41
+MERGED from [:backend-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/backend-debug/AndroidManifest.xml:23:5-25:41
+MERGED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:4:5-73
+MERGED from [:google-vr-common:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-common/AndroidManifest.xml:3:5-73
+MERGED from [:3DCursorLibrary-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/AndroidManifest.xml:22:5-24:41
+MERGED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:26:9-38
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:25:9-35
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+		INJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:28:5-79
+MERGED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:29:5-78
+MERGED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:29:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:30:5-76
+MERGED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:30:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:31:5-76
+MERGED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:31:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:32:5-79
+MERGED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:32:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:33:5-67
+MERGED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:33:22-64
+application
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:36:5-57:19
+MERGED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:37:5-43:19
+MERGED from [:backend-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/backend-debug/AndroidManifest.xml:31:5-32:19
+MERGED from [:3DCursorLibrary-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/AndroidManifest.xml:26:5-30:19
+MERGED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:21:5-25:19
+	android:label
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:39:9-41
+	android:supportsRtl
+		ADDED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:38:9-43
+		REJECTED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:39:9-45
+	android:largeHeap
+		ADDED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:41:9-33
+	android:theme
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:40:9-40
+	tools:replace
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:41:9-37
+meta-data#com.samsung.android.vr.application.mode
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:43:9-45:38
+	android:value
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:44:13-67
+activity#org.gearvrf.io.cursorsimple.CursorActivity
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:46:9-56:20
+	android:screenOrientation
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:50:13-50
+	android:label
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:48:13-45
+	android:launchMode
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:47:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:52:17-68
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:54:17-76
+	android:name
+		ADDED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:54:27-74
+uses-permission#com.samsung.android.hmt.permission.READ_SETTINGS
+ADDED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:30:5-88
+	android:name
+		ADDED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:30:22-85
+uses-feature#0x00030000
+ADDED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:33:5-35:35
+MERGED from [:backend-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/backend-debug/AndroidManifest.xml:27:5-29:35
+	android:glEsVersion
+		ADDED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:34:9-41
+	android:required
+		ADDED from [:framework-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/AndroidManifest.xml:35:9-32
+uses-feature#0x00020000
+ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:5:5-77
+REJECTED from /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/src/main/AndroidManifest.xml:5:5-77
+	android:glEsVersion
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:5:19-51
+	android:required
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:5:52-75
+uses-permission#android.permission.NFC
+ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:6:5-61
+	android:name
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:6:22-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:8:22-78
+uses-feature#android.software.vr.mode
+ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:11:5-85
+	android:required
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:11:59-83
+	android:name
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:11:19-58
+uses-feature#android.hardware.vr.high_performance
+ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:12:5-97
+	android:required
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:12:71-95
+	android:name
+		ADDED from [:google-vr-base:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/AndroidManifest.xml:12:19-70
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from [:gvrmobileiodevice-debug:] /home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/AndroidManifest.xml:12:9-61

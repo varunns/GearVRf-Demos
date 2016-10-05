@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/button_pressed.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/button_pressed.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/circle.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/dialog_background.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/hlist_background.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/hlist_background.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/edit.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/edit.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/triangle_left.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/triangle_left.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_white_dot.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_white_dot.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_red_dot.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_red_dot.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_handleft.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_handleft.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_handright.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_handright.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/done_button.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/done_button.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/rippleable.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/drawable/rippleable.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/white_arrow.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/white_arrow.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/hlist_background_selected.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/hlist_background_selected.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/button_default.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/button_default.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_blue_arrow.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_blue_arrow.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/triangle_right.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/triangle_right.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_crystal_sphere.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_crystal_sphere.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/sound.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/sound.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_plaid_sphere.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_plaid_sphere.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/cursor_type_rect.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/cursor_type_rect.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/rounded_rect.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/rounded_rect.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/green_circle.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/green_circle.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/done.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/done.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/grey_circle.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/grey_circle.xml"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/ic_settings_48dp.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/res/drawable/ic_settings_48dp.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/rounded_rect_bg.xml",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/rounded_rect_bg.xml"
+    }
+]
