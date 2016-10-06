@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/VrAppFramework.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d408c99cf2b8b4276902b0a126247f027bf76c04">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/VrAppFramework_30ef42e0d3acaa163286e78aac6d3715b01ac901/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6230f57df62e65246b3b6ba2343e76eec83b0a55">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-3DCursorLibrary-debug_bb6069f927b8e198d3c808db26e2f716c7b728af/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-base/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a70a6b6d2d4980e1b3cf97012a0063596ec9b84b">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-google-vr-base_98c7599900915ff6f5809b4504d79dfa92b52bde/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/google-vr-common/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47e44d401381cce999daa79acb342e760615712c">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-google-vr-common_e0789d47279b42f77c289c2d6986eb4f6ed02764/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/SystemUtils.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35d3bde15aa84a2b81867cd5b33e76a2e8e884cf">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/SystemUtils_dfb271f37e4a086e8cae01d4c1202045e174d77b/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="22d5845e3f89c1c7ce52871170fc2b4d5bab04db">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b7cffe6911be14cdf97727f73b15bbd6b0331aaf/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79f65f61444de79585b28acb3eaa9e3a591c28c1">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-framework-debug_2721e39918847aa05c8f7e1e097d2cc1a570cf48/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/js.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfa843961095123446bb15c535f9514fee2f487c">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/js_5af1a86206c3012130e52eca7b69689382fe5a15/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="34e7900a35795ad0c1bc4425710471655781265e">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_19e4cce4be11b4d7de7c801767d9068b060be212/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jsr223.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="38b23d17548feac44b6029287e9a4d6e19d56d7d">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr223_4fe615fbbc6f8d623f2672c15ca2244806d15510/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/VrApi.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e7680af36013c0527f81479b59815acf0784f7e">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/VrApi_96b48e12a01cc6a759a1d5bfb55416d5edee2fff/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/gvrmobileiodevice-debug/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4842e627f9bc94baef762d82b92de776db95bd2f">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-gvrmobileiodevice-debug_fc149215bb3fa0662dfb8eb5ea7c24b1435ef49e/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/backend-debug/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="38314cec5fa7dcf5f9678094377c5ccea9ff051a">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-backend-debug_b8cf3f1aad57f9e1c41021877ddae60e5b326e38/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jnlua-android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44605a83c6d18db105bb7a99016cd1e3d09efa15">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/jnlua-android_8a9f3c3023f6080c4b86fbb19aa4b613c16294dd/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e029a3a3e4e83f36f54013be8bff424afa7c2cfc">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c7f2fe5bd335caec894901802cc3ce85b775c6e5/classes.dex" />
+    </item>
+    <item
+        jar="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/framework-debug/jars/libs/jline-android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ea5aa6b2d7c0d9e1efba7045f641e870be49ff4">
+        <dex dex="/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/dex/debug/folders/1000/10/jline-android_770710fa370849eedbdd6c1cb96852fb27cd30c3/classes.dex" />
+    </item>
+
+</items>

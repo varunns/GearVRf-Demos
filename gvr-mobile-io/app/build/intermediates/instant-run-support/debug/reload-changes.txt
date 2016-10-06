@@ -1,3 +1,0 @@
-CHANGED,/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/gearvrf/io/cursorsimple/CursorMain$1$override.class
-CHANGED,/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/gearvrf/io/cursorsimple/CursorMain$override.class

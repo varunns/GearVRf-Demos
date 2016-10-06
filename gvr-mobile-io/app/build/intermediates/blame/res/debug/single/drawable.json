@@ -32,12 +32,12 @@
         "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_red_dot.png"
     },
     {
-        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_handleft.png",
-        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_handleft.png"
-    },
-    {
         "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_handright.png",
         "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_handright.png"
+    },
+    {
+        "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/theme_handleft.png",
+        "source": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/exploded-aar/3DCursorLibrary-debug/res/drawable/theme_handleft.png"
     },
     {
         "merged": "/home/v.nidamarthy/Project/GearVRf-Demos/gvr-mobile-io/app/build/intermediates/res/merged/debug/drawable/done_button.xml",

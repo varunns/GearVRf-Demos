@@ -96,9 +96,6 @@ public class CursorMain extends GVRMain implements CursorEventListener {
             }
         });
 
-
-
-        //addCustomMovableCube(gvrContext);
     }
 
     @Override
